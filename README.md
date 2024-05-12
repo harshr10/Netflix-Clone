@@ -23,6 +23,6 @@ Feel free to explore the various sections of the website and interact with the s
 
 ## Credits
 
-- Images: Replace placeholder images with appropriate ones.
+- Images: Netflix
 - Font: 'Poppins' font family is used, but you can customize it as per your preference.
 - Icons: Icons used in the project are sourced from external libraries or can be replaced with your own.
